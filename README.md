@@ -80,9 +80,9 @@ npm run start
 
 ## Authors
 
-- [@rohitmirchandani](https://www.github.com/rohitmirchandani)
+- [@Prateekmax21](https://www.github.com/Prateekmax21) 
 
 
 ## Feedback
 
-For feedback, email rohitmirchandani365@gmail.com.
+For feedback, email prateekpagare7676@gmail.com.
